@@ -1,0 +1,26 @@
+#darkerFork {
+  float: left;
+
+}
+
+#biggerFont {
+  font-family: 'Pacifico', cursive;
+  font-size: 2rem;
+}
+#capital {
+  font-family: 'Pacifico', cursive;
+  font-size: 1.5rem;
+  font-weight: bold
+}
+#new {
+  float: left
+}
+
+#smallIcons {
+  float: right;
+  padding-top: 10px
+}
+#theRight {
+  float: down
+
+}
