@@ -1,26 +1,122 @@
+header{
+  width: 900px;
+  margin: 0 auto;
+  height: 75px;
+  padding-top:15px;
+}
 #darkerFork {
   float: left;
+  height: 50px;
 
 }
-
+#boldGray {
+  margin: 0px;
+  color: gray;
+}
 #biggerFont {
   font-family: 'Pacifico', cursive;
-  font-size: 2rem;
+  font-size: 1.25rem;
+  margin-bottom: 0px;
 }
 #capital {
   font-family: 'Pacifico', cursive;
-  font-size: 1.5rem;
-  font-weight: bold
+  font-size: .75rem;
+  font-weight: bold;
 }
 #new {
-  float: left
+  float: left;
 }
-
+#pizzalogo {
+  float: right
+}
 #smallIcons {
   float: right;
-  padding-top: 10px
+  padding-top: 10px;
 }
-#theRight {
-  float: down
+#theLeft {
+  float: left ;
 
+}
+hr {
+}
+#notebookBackground{
+  position: relative;
+  display: block
+
+}
+#paragraph1 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(120, 126, 110);
+  line-height: 1.3em;
+  text-indent: 20px;
+}
+#paragraph2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(120, 126, 110);
+  line-height: 1.3em;
+  text-indent: 20px;
+}
+#paragraph3 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(120, 126, 110);
+  line-height: 1.3em;
+  text-indent: 20px;
+  
+}
+#splitThis {
+  margin-right: 20 px;
+  margin-left: 40 px;
+}
+h2 {
+  margin: 0px;
+  font-family:'Times New Roman', Times, serif;
+  font-size:xx-large
+}
+#posted {
+  float: right;
+  margin-top: 0px;
+  margin-right: 5px;
+  color: gray;
+  text-size-adjust: 1px;
+}
+#tinyPrinter {
+  float:right;
+  color: gray;
+}
+#container {
+  position:absolute;
+  display: block;
+}
+#recipe1 {
+  position: relative;
+  float: left;
+  font: times;
+  
+}
+#recipe2 {
+  margin-left: 300px;
+  position: relative;
+  float:right;
+}
+#notepad{
+  position: absolute;
+
+}
+footer {
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px;
+  color: gray;
+}
+main {
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#tinyUtensils {
+  margin-top: 200px;
 }
